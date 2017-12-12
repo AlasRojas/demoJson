@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"user":{
+	        "greeting": "¡Hola!",
+	        "profile": "Mi perfil",
+	        "cloSession": "Cerrar sesión",
+	        "initSession": "Inicia sesión",
+	        "register": "Regístrate"
+	    }
+	}
+}

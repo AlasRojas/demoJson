@@ -1,0 +1,11 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"buttonBuy": "Comprar",
+	    "buttonDiscount": "Descuentos",
+	    "buttonSeeMore": "Ver más",
+	    "buttonReadMore": "Leer más"
+	}
+}

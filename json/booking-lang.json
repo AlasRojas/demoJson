@@ -1,0 +1,59 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+
+		"flight": {
+			"title": "Vuelos",
+			"round": "Ida y vuelta",
+			"simple": "Solo ida",
+			"subtitle": "Selecciona un origen",
+			"subtitleDestiny": "Selecciona un destino",
+			"searchPlaceholder": "Buscar destino",
+			"originLabel": "Origen",
+			"destinationLabel": "Destino",
+			"passengerLabel": "Pasajeros"
+		},
+		"flightPlusHotel": {
+			"button": "Hotel más avión",
+			"title": "¿Necesitas un paquete diseñado a la medida de tu viaje?",
+			"description": "Encuéntralo en"
+		},
+		"passengers": {
+			"title": "Selecciona pasajeros",
+			"adultsTitle": "Adultos",
+			"childrenTitle": "Menores",
+			"babiesTitle": "Bebés",
+			"adultsDisclaimer": "El descuento para mayores de 65 años se aplica al ingresar los datos del pasajero.",
+			"childrenDisclaier": "2-11 años",
+			"babiesDisclaimer": "0-2 años"
+		},
+		"schedule": {
+			"title": "Selecciona tu fecha de vuelo"
+		},
+		"regions": [
+			{
+				"region":"México",
+				"ZoneCode": "01"
+			}, 
+			{
+				"region":"Norteamérica",
+				"ZoneCode": "02"
+			}, 
+			{
+				"region":"Latinoamérica",
+				"ZoneCode": "03"
+			}, 
+			{
+				"region":"En Conexión",
+				"ZoneCode": "04"
+			}
+		],
+		"buttonUpdate": "Actualizar",
+		"buttonNext": "Siguiente",
+		"buttonSearch": "Buscar",
+		"buttonBuy": "Comprar"
+
+	}
+}

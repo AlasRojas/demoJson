@@ -1,0 +1,71 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"countries": [{
+				"title": "US - Inglés",
+				"hreflang": "en-us",
+				"url": "www.interjet.com/en-us/",
+				"target": "_self",
+				"icon": "../img/en-us.svg"
+			},
+			{
+				"title": "US - Español",
+				"hreflang": "es-us",
+				"url": "www.interjet.com/en-ca/",
+				"target": "_self",
+				"icon": "../img/es-us.svg"
+			},
+			{
+				"title": "MX - Español",
+				"hreflang": "es",
+				"url": "www.interjet.com/es-mx/",
+				"target": "_self",
+				"icon": "../img/es-mx.svg"
+			},
+			{
+				"title": "GT - Español",
+				"hreflang": "es-gt",
+				"url": "www.interjet.com/es-gt/",
+				"target": "_self",
+				"icon": "../img/es-gt.svg"
+			},
+			{
+				"title": "CO - Español",
+				"hreflang": "es-co",
+				"url": "www.interjet.com/es-co/",
+				"target": "_self",
+				"icon": "../img/es-co.svg"
+			},
+			{
+				"title": "CR - Español",
+				"hreflang": "es-cr",
+				"url": "www.interjet.com/es-cr/",
+				"target": "_self",
+				"icon": "../img/es-cr.svg"
+			},
+			{
+				"title": "PE - Español",
+				"hreflang": "es-pe",
+				"url": "www.interjet.com/es-pe/",
+				"target": "_self",
+				"icon": "../img/es-pe.svg"
+			},
+			{
+				"title": "CA - Inglés",
+				"hreflang": "en-ca",
+				"url": "www.interjet.com/en-ca/",
+				"target": "_self",
+				"icon": "../img/es-ca.svg"
+			},
+			{
+				"title": "CA - Francés",
+				"hreflang": "fr",
+				"url": "www.interjet.com/fr-ca/",
+				"target": "_self",
+				"icon": "../img/fr-ca.svg"
+			}
+		]
+	}
+}

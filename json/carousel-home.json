@@ -1,0 +1,31 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"topCarrusel": [
+	      {
+	        "desktopImg": "assets/img/llama.png",
+	        "mobileImg": "assets/img/llama-mobile.png",
+	        "altImg": "Llama en Perú",
+	        "id": "1231",
+	        "dateCreation": "20/11/2017",
+	        "nameDatalayer": "Vuela a Lima, desde 179 USD, Saliendo desde Vancouver y volando de Octubre 26 a Febrero 28 de 2018.",
+	        "htmlInfo": '<p class="trip-title">Vuela a Lima</p><p>desde</p><div class="price">$179 <span>USD<br>vuelo redondo</span></div><div class="trip-disclaimer">Saliendo desde Vancouver y volando de Octubre 26 a Febrero 28 de 2018. Aplican términos y condiciones.</div><button type="button" class="btn btn-secondary">Comprar</button>',
+	        "backgroundColor": "#87CEFF"
+	      },
+	      {
+	        "desktopImg": "assets/img/llama.png",
+	        "mobileImg": "assets/img/llama-mobile.png",
+	        "altImg": "Llama en Perú",
+	        "id": "1232",
+	        "dateCreation": "20/11/2017",
+	        "nameDatalayer": "Vuela a Lima, desde 179 USD, Saliendo desde Vancouver y volando de Octubre 26 a Febrero 28 de 2018.",
+	        "htmlInfo": '<p class="trip-title">Vuela a Lima</p><p>desde</p><div class="price">$179 <span>USD<br>vuelo redondo</span></div><div class="trip-disclaimer">Saliendo desde Vancouver y volando de Octubre 26 a Febrero 28 de 2018. Aplican términos y condiciones.</div><button type="button" class="btn btn-secondary">Comprar</button>',
+	        "backgroundColor": "#87CEFF"
+	      }
+	    ],
+	    "nameSection": "Carrusel Top",
+	    "h1Name": "Demo h1"
+	}
+}

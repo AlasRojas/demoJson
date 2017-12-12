@@ -1,0 +1,16 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"alertTop": [
+	      {
+	        "alertType": "Aviso:",
+	        "alertText": "Vuelos afectados por huracán Irma",
+	        "url": "https://www.demopage.com",
+	        "target": "_blank"
+	      }
+	    ],
+	    "nameSection": "Alerta Top"
+	}
+}

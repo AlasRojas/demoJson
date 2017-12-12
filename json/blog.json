@@ -1,0 +1,32 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"blog": [
+		    {
+		      "title": "Los Cabos, Baja California",
+		      "description": "Si ya conoces Cancún, sabrás que el cielo se encuentra en México y que el paraíso es algo que se puede alcanzar con sólo sabrás que insertar aquí máximo de 4 líneas",
+		      "image": "assets/img/blog1.png",
+		      "altImg": "Los Cabos, Baja California",
+		      "url": "/",
+		      "target": "_self",
+		      "id": "1238",
+		      "dateCreation": "20/11/2017",
+		      "nameDatalayer": "Si ya conoces Cancún, sabrás que el cielo se encuentra en México."
+		    },
+		    {
+		      "title": "El sótano de las golondrinas",
+		      "description": "Si ya conoces Cancún, sabrás que el cielo se encuentra en México y que el paraíso es algo que se puede alcanzar con sólo sabrás que insertar aquí máximo de 4 líneas.",
+		      "image": "assets/img/blog2.png",
+		      "altImg": "Los Cabos, Baja California",
+		      "url": "/",
+		      "target": "_self",
+		      "id": "1238",
+		      "dateCreation": "20/11/2017",
+		      "nameDatalayer": "Si ya conoces Cancún, sabrás que el cielo se encuentra en México."
+			}
+		],
+		"nameSection": "Blog Interjet"
+	}
+}

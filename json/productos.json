@@ -1,0 +1,83 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+		"travelFrom": [
+	        {
+	            "image": "assets/img/cabos.png",
+	            "altImg": "Los Cabos",
+	            "alertType": "discount",
+	            "alertTextUp": null,
+	            "alertTextDown": null,
+	            "discountNumber": "50",
+	            "destinationArrival": "Vuela a Los Cabos",
+	            "typeTrip": "round",
+	            "tripText":"vuelo redondo desde",
+	            "price": "$699",
+	            "foreignExchange": "USD",
+	            "target": "_self",
+	            "id": "1232",
+	            "dateCreation": "20/11/2017",
+	            "nameDatalayer": "Vuela los Cabos desde Ciudad de México.",
+	            "url": "/"
+	        },
+	        {
+	            "image": "assets/img/montreal.png",
+	            "altImg": "Montreal",
+	            "alertType": null,
+	            "alertTextUp": null,
+	            "alertTextDown": null,
+	            "discountNumber": null,
+	            "destinationArrival": "Vuela a Montreal",
+	            "typeTrip": "round",
+	            "tripText":"vuelo redondo desde",
+	            "price": "$357",
+	            "foreignExchange": "USD",
+	            "target": "_self",
+	            "id": "1233",
+	            "dateCreation": "20/11/2017",
+	            "nameDatalayer": "Vuela a Montreal desde Ciudad de México.",
+	            "url": "/"
+	        },
+	        {
+	            "image": "assets/img/bogota.png",
+	            "altImg": "Vuela a Bogotá",
+	            "alertType": "new",
+	            "alertTextUp": "Nuevo",
+	            "alertTextDown": "Destino",
+	            "discountNumber": null,
+	            "destinationArrival": "Vuela a Bogotá",
+	            "typeTrip": "round",
+	            "tripText":"vuelo redondo desde",
+	            "price": "$859",
+	            "foreignExchange": "USD",
+	            "target": "_self",
+	            "id": "1234",
+	            "dateCreation": "20/11/2017",
+	            "nameDatalayer": "Vuela a Bogotá vuelo redondo.",
+	            "url": "/"
+	        },
+	        {
+	            "image": "assets/img/carmen.png",
+	            "altImg": "Playa del Carmen",
+	            "alertType": "new",
+	            "alertTextUp": "Nuevo",
+	            "alertTextDown": "Destino",
+	            "discountNumber": null,
+	            "destinationArrival": "Vuela a Playa del Carmen",
+	            "typeTrip": "round",
+	            "tripText":"vuelo redondo desde",
+	            "price": "$357",
+	            "foreignExchange": "USD",
+	            "target": "_self",
+	            "id": "1235",
+	            "dateCreation": "20/11/2017",
+	            "nameDatalayer": "Vuela a Playa del Carmen vuelo sencillo.",
+	            "url": "/"
+	        }
+	    ],
+	    "departure": "Cuidad de México",
+	    "nameSection": "Vuelos desde"
+	}
+}

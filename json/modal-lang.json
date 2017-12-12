@@ -1,0 +1,45 @@
+{
+	"meta": {
+		"code": 200
+	},
+	"data": {
+	    "warningModal": {
+	    	"title": "Ups... algo salió mal",
+	    	"bodyText1": "Al deshabilitar la opción tus puntos se eliminarán",
+	    	"bodyText2": "¿Deseas continuar?",
+	    	"bodyText3": "(idea a redactar)",
+	    	"buttonCancel": "Cancelar",
+	    	"buttonAcept": "Aceptar"
+	    },
+	    "videoModal": {},
+	    "loginModal": {
+	    	"title": "Inicia sesión",
+	    	"mailPlaceholder": "demo@mail.com",
+	    	"mailLabel": "Correo electrónico*",
+	    	"passwordPlaceholder": "Contraseña",
+	    	"passwordLabel": "Contraseña",
+	    	"forgetPasswordText": "¿Olvidaste tu contraseña?",
+	    	"buttonLogin": "Iniciar sesión",
+	    	"createTitle": "Crear cuenta",
+	    	"createText": "Disfrutar los beneficios que Club Interjet tiene para ti. Regístrate sin costo y obten ofertas exclusivas, preventas y outlets para socios.",
+	    	"buttonRegister": "Registrarme"
+	    },
+	    "chatModal": {
+	    	"title": "",
+	    	"mailPlaceholder": "demo@mail.com",
+	    	"mailLabel": "Correo electrónico*",
+	    	"namePlaceholder": "Nombre",
+	    	"nameLabel": "Nombre",
+	    	"buttonChat": "Iniciar chat"
+	    },
+	    "newsletterModal": {
+	    	"title": "Newsletter",
+	    	"newsletterText": "Registra sin costo y entérate de nuestras promociones.",
+	    	"namePlaceholder": "Nombre",
+	    	"nameLabel": "Nombre",
+	    	"mailPlaceholder": "demo@mail.com",
+	    	"mailLabel": "Correo electrónico*",
+	    	"buttonNewsletter": "Suscribirme"
+	    }
+	}
+}
